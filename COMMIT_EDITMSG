@@ -1,0 +1,7 @@
+Agent query: I've updated the PDF template. Could you create a new resume and check if:
+1. The 'Save Resume' button works without the 413 error
+2. The PDF shows 'Experience' instead of 'Professional Experience'?
+
+Update resume PDF to display "Experience" instead of "Professional Experience".
+
+Screenshot: https://storage.googleapis.com/screenshot-production-us-central1/f5d0980b-1878-495c-8bc8-f1c242a92cc2/3926e9e7-2596-44a5-9e3c-717fc9f43ed0.jpg
